@@ -1,1 +1,1 @@
-Gestione di una libreria versione 1
+Gestione di una libreria 
